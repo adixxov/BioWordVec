@@ -1,3 +1,5 @@
+# adixxov notes
+Keywords: word embeddings, fasttext, medical pubs
 # BioWordVec: Improving Biomedical Word Embeddings with Subowrd Information and MeSH #
 This sourcecode is a demo implementation described in the paper "BioWordVec:Improving Biomedical Word Embeddings with Subowrd Information and MeSH." This is research software, provided as is without express or implied warranties etc. see licence.txt for more details. We have tried to make it reasonably usable and provided help options, but adapting the system to new environments or transforming a corpus to the format used by the system may require significant effort. 
 
